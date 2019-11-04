@@ -1,0 +1,3 @@
+/Users/dannyb/CLionProjects/proiect-iep/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/dannyb/CLionProjects/proiect-iep/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/dannyb/CLionProjects/proiect-iep/cmake-build-debug/CMakeFiles/proiect_iep.dir

@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/proiect_iep.dir/aeroport/src/main.cpp.o  -o proiect_iep  -L/home/dannyb/proiect-iep/aeroport/inc -Wl,-rpath,/home/dannyb/proiect-iep/aeroport/inc aeroport/libaeroport.a aeroport/avion/libairplane.a 

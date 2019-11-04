@@ -1,0 +1,2 @@
+/usr/bin/ar qc libmotoare.a  CMakeFiles/motoare.dir/avion/src/motoare.cpp.o
+/usr/bin/ranlib libmotoare.a

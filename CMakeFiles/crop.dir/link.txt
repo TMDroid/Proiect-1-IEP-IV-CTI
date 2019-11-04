@@ -1,0 +1,2 @@
+/usr/bin/ar qc libcrop.a  CMakeFiles/crop.dir/aeroport/src/motoare.cpp.o
+/usr/bin/ranlib libcrop.a

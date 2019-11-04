@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/company.dir/main.cpp.o  -o company  -L/home/dannyb/proiect-iep/avion/inc -Wl,-rpath,/home/dannyb/proiect-iep/avion/inc avion/libairplane.a 

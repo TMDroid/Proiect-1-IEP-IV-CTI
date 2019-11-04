@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/components.dir/main.cpp.o  -o components libaripi.a libmotoare.a libcorp.a libavion.a libavion_marfa.a libavion_pasageri.a libaeroport.a 

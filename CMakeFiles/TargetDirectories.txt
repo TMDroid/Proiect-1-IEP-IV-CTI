@@ -1,0 +1,6 @@
+/home/dannyb/proiect-iep/CMakeFiles/rebuild_cache.dir
+/home/dannyb/proiect-iep/CMakeFiles/company.dir
+/home/dannyb/proiect-iep/CMakeFiles/edit_cache.dir
+/home/dannyb/proiect-iep/avion/CMakeFiles/rebuild_cache.dir
+/home/dannyb/proiect-iep/avion/CMakeFiles/airplane.dir
+/home/dannyb/proiect-iep/avion/CMakeFiles/edit_cache.dir

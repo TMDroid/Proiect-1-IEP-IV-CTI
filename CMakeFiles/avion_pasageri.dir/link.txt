@@ -1,0 +1,2 @@
+/usr/bin/ar qc libavion_pasageri.a  CMakeFiles/avion_pasageri.dir/avion/src/avion_pasageri.cpp.o
+/usr/bin/ranlib libavion_pasageri.a

@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/dannyb/proiect-iep/main.cpp
+iostream
+-
+list
+-
+avion.h
+-
+avion_pasageri.h
+-
+
+avion/inc/aripi.h
+componenta.h
+avion/inc/componenta.h
+
+avion/inc/avion.h
+iostream
+-
+aripi.h
+avion/inc/aripi.h
+motoare.h
+avion/inc/motoare.h
+corp.h
+avion/inc/corp.h
+
+avion/inc/avion_pasageri.h
+avion.h
+avion/inc/avion.h
+
+avion/inc/componenta.h
+
+avion/inc/corp.h
+componenta.h
+avion/inc/componenta.h
+
+avion/inc/motoare.h
+componenta.h
+avion/inc/componenta.h
+

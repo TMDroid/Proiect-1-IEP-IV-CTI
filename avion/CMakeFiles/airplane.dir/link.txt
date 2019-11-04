@@ -1,0 +1,2 @@
+/usr/bin/ar qc libairplane.a  CMakeFiles/airplane.dir/src/aripi.cpp.o CMakeFiles/airplane.dir/src/avion.cpp.o CMakeFiles/airplane.dir/src/avion_marfa.cpp.o CMakeFiles/airplane.dir/src/avion_pasageri.cpp.o CMakeFiles/airplane.dir/src/corp.cpp.o CMakeFiles/airplane.dir/src/motoare.cpp.o
+/usr/bin/ranlib libairplane.a

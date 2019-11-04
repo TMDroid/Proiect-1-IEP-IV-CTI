@@ -1,0 +1,2 @@
+/usr/bin/ar qc libaripi.a  CMakeFiles/aripi.dir/avion/src/aripi.cpp.o
+/usr/bin/ranlib libaripi.a

@@ -1,0 +1,2 @@
+/usr/bin/ar qc libcorp.a  CMakeFiles/corp.dir/avion/src/corp.cpp.o
+/usr/bin/ranlib libcorp.a

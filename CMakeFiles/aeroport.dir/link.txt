@@ -1,0 +1,2 @@
+/usr/bin/ar qc libaeroport.a  CMakeFiles/aeroport.dir/aeroport/src/aeroport.cpp.o
+/usr/bin/ranlib libaeroport.a

@@ -1,0 +1,2 @@
+/usr/bin/ar qc libavion_marfa.a  CMakeFiles/avion_marfa.dir/avion/src/avion_marfa.cpp.o
+/usr/bin/ranlib libavion_marfa.a
